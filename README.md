@@ -2,7 +2,7 @@
 
 A scroll-driven hero section where a top-view car drives across the screen as you scroll. The "WELCOME ITZFIZZ" title is revealed behind the car as it passes, and four stat blocks fade in one after another.
 
-## Smaller heading Live demo: https://himangshu205.github.io/Scroll-Driven-Hero-Section-Animation/
+### Live demo: https://himangshu205.github.io/Scroll-Driven-Hero-Section-Animation/
 
 ## Features
 - Car moves left to right, linked to scroll position
