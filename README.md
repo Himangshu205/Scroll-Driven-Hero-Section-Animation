@@ -1,16 +1,16 @@
-# Big title, Scroll-Driven Hero Section Animation
+# Big title Scroll-Driven Hero Section Animation
 
 A scroll-driven hero section where a top-view car drives across the screen as you scroll. The "WELCOME ITZFIZZ" title is revealed behind the car as it passes, and four stat blocks fade in one after another.
 
-**word** Live demo: https://himangshu205.github.io/Scroll-Driven-Hero-Section-Animation/
+## Smaller heading Live demo: https://himangshu205.github.io/Scroll-Driven-Hero-Section-Animation/
 
-Features
--Car moves left to right, linked to scroll position
--Title revealed behind the car using CSS clip-path
--Road markings slide backwards to show speed
--Stats fade and float in sequentially
--Responsive layout using viewport units
--No libraries or build step, just HTML, CSS and vanilla JavaScript
+## Smaller heading Features
+- Car moves left to right, linked to scroll position
+- Title revealed behind the car using CSS clip-path
+- Road markings slide backwards to show speed
+- Stats fade and float in sequentially
+- Responsive layout using viewport units
+- No libraries or build step, just HTML, CSS and vanilla JavaScript
 
 ### Even smaller Run locally
 
